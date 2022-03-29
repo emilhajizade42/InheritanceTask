@@ -1,0 +1,14 @@
+C:\Users\emil code\Desktop\c# experments\InheritanceTask\InheritanceTask\bin\Debug\netcoreapp3.1\InheritanceTask.exe
+C:\Users\emil code\Desktop\c# experments\InheritanceTask\InheritanceTask\bin\Debug\netcoreapp3.1\InheritanceTask.deps.json
+C:\Users\emil code\Desktop\c# experments\InheritanceTask\InheritanceTask\bin\Debug\netcoreapp3.1\InheritanceTask.runtimeconfig.json
+C:\Users\emil code\Desktop\c# experments\InheritanceTask\InheritanceTask\bin\Debug\netcoreapp3.1\InheritanceTask.runtimeconfig.dev.json
+C:\Users\emil code\Desktop\c# experments\InheritanceTask\InheritanceTask\bin\Debug\netcoreapp3.1\InheritanceTask.dll
+C:\Users\emil code\Desktop\c# experments\InheritanceTask\InheritanceTask\bin\Debug\netcoreapp3.1\InheritanceTask.pdb
+C:\Users\emil code\Desktop\c# experments\InheritanceTask\InheritanceTask\obj\Debug\netcoreapp3.1\InheritanceTask.csproj.AssemblyReference.cache
+C:\Users\emil code\Desktop\c# experments\InheritanceTask\InheritanceTask\obj\Debug\netcoreapp3.1\InheritanceTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil code\Desktop\c# experments\InheritanceTask\InheritanceTask\obj\Debug\netcoreapp3.1\InheritanceTask.AssemblyInfoInputs.cache
+C:\Users\emil code\Desktop\c# experments\InheritanceTask\InheritanceTask\obj\Debug\netcoreapp3.1\InheritanceTask.AssemblyInfo.cs
+C:\Users\emil code\Desktop\c# experments\InheritanceTask\InheritanceTask\obj\Debug\netcoreapp3.1\InheritanceTask.csproj.CoreCompileInputs.cache
+C:\Users\emil code\Desktop\c# experments\InheritanceTask\InheritanceTask\obj\Debug\netcoreapp3.1\InheritanceTask.dll
+C:\Users\emil code\Desktop\c# experments\InheritanceTask\InheritanceTask\obj\Debug\netcoreapp3.1\InheritanceTask.pdb
+C:\Users\emil code\Desktop\c# experments\InheritanceTask\InheritanceTask\obj\Debug\netcoreapp3.1\InheritanceTask.genruntimeconfig.cache
